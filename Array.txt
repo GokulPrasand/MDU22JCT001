@@ -52,7 +52,7 @@ class Main {
         if (isCompatible(arr1, arr2)) {
             System.out.println("Arrays are Compatible");
         } else {
-            System.out.println("Arrays are Not Compatible");
+            System.out.println("Arrays Won't Compatible");
         }
     }
 }
